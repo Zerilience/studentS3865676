@@ -1,1 +1,49 @@
-
+<!DOCType html>
+<head>
+	<style>
+		header {
+			text-align: center;
+			background: url("background02.jpg");
+			background-size: cover;
+			color: black;
+		}
+		a {
+			color: black;
+		}
+		img {
+			margin: 24px 0px 0px 0px;
+			border: 8px solid black;
+			border-radius: 24px;
+		}
+		ul {
+    		padding: 8px;
+		background: rgba(0,0,0,0.24);
+		}
+		li {
+			display: inline;
+			padding: 0px 24px 0px 24px;
+		}
+		article {
+			max-width: 500px;
+			padding: 20px;
+			margin: 0 auto;
+	</style>
+</head>
+<Body>
+	<header>
+		<img src="Rhaegar.PNG">
+		<h1>Rodolfo Casimiro2</h1>
+		<h1>S3865676@student.rmit.edu.au</h1>
+		<ul>
+			<li><a href="https://zerilience.github.io/studentS3865676/">Home</a></li>
+			<li><a href="#">Interest in IT</a></li>
+			<li><a href="#">Ideal Job</a></li>
+			<li><a href="#">Personal Profile</a></li>
+			<li><a href="#">Project Idea</a></li>
+		</ul>
+	</header>
+		<Article>
+			<h2>Interest in IT</h2>
+			<p>zerilience</p>
+		</Article>
+</Body>
